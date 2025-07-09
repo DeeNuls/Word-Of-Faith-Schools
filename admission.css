@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(255, 255, 255)
+   }
+   p{
+       color: #000000;
+   }
+   .nav{
+    margin: 20px;
+    text-align: justify;
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+}
